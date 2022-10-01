@@ -3,7 +3,7 @@ Test Cases for random password generator
 """
 
 import unittest
-from password_generator import PasswordGenerator
+from PasswordGenerator import PasswordGenerator
 
 class TestRPG(unittest.TestCase):
 
