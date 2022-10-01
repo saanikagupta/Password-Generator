@@ -1,9 +1,3 @@
-"""
-Author          : Surya Teja <suryateja1919@gmail.com>
-Description     : Random Password Generator
-Website         : https://suryasr007.github.io
-"""
-
 import string
 from copy import deepcopy
 from random import shuffle, randint
